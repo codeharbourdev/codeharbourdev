@@ -6,7 +6,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codeharbourdev/codeharbourdev/main/assets/img.png" alt="Profile" width="150" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/codeharbourdev/codeharbourdev/main/assets/img.jpg" alt="Profile" width="150" style="border-radius: 50%;" />
 </p>
 
 
