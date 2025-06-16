@@ -11,11 +11,11 @@
 
 <!------------------------- links  ----------- ---------------->
 <p align="center">
-  <a href="https://harbour-portfolio.netlify.app/" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Click_here-blueviolet?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f111a" />
-  </a>
   <a href="https://codeharbourdev.netlify.app/" target="_blank" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/🌐 Website-Visit-blueviolet?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f111a" />
+  </a>
+  <a href="https://harbour-portfolio.netlify.app/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Click_here-blueviolet?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f111a" />
   </a>
   <a href="https://www.linkedin.com/in/codeharbourdev/" target="_blank" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-Follow-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f111a" />
