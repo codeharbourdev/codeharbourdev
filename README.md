@@ -1,4 +1,15 @@
 <!-- Banner (optional: replace with your own image link) -->
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codeharbourdev/codeharbourdev/main/assets/banner.jpeg" alt="Banner" width="100%" />
+</p>
+
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codeharbourdev/codeharbourdev/main/assets/img.png" alt="Profile" width="150" style="border-radius: 50%;" />
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/codeharbourdev/assets/main/banner.gif" alt="Code Harbour Banner" width="100%" />
 </p>
