@@ -1,62 +1,90 @@
-<!-- Banner (optional: replace with your own image link) -->
-<!-- Banner Image -->
+<!------------------------- Banner  ---------------->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codeharbourdev/codeharbourdev/main/assets/banner.jpeg" alt="Banner" width="100%" />
-</p>
-
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codeharbourdev/codeharbourdev/main/assets/img.jpg" alt="Profile" width="150" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/codeharbourdev/codeharbourdev/main/assets/banner.png?v=2" alt="Code Harbour Banner" width="100%" />
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codeharbourdev/assets/main/banner.gif" alt="Code Harbour Banner" width="100%" />
-</p>
+<!------------------------- heading  ---------------->
+<h1 align="center">👋 Hey there, I'm <span style="color: blueviolet;">Rishabh Kumar Yadav</span></h1>
+<h2 align="center">💻 Frontend Developer &nbsp;|&nbsp; 🎨 UI/UX Designer &nbsp;|&nbsp; ⚛️ React Learner &nbsp;|&nbsp; 📜 JavaScript</h2>
+<h2 align="center">🚀 Try to make <span style="color:blueviolet;">"Hello Universe"</span> the new <span style="color:orange;">ABC</span></h2>
 
-<h1 align="center">Hi 👋, I'm Rishabh Kumar Yadav</h1>
-<h3 align="center">Frontend Developer | JavaScript & React Learner | Hindi Tech Educator</h3>
-
+<!------------------------- links  ----------- ---------------->
 <p align="center">
-  <a href="https://codeharbourdev.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-visit-informational?style=flat&logo=netlify&logoColor=white&color=0abf53" />
+  <a href="https://harbour-portfolio.netlify.app/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Click_here-blueviolet?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f111a" />
   </a>
-  <a href="https://www.linkedin.com/in/codeharbourdev/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-follow-blue?style=flat&logo=linkedin" />
+  <a href="https://codeharbourdev.netlify.app/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/🌐 Website-Visit-blueviolet?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f111a" />
   </a>
-  <a href="https://www.youtube.com/@codeharbourdev" target="_blank">
-    <img src="https://img.shields.io/badge/📺 YouTube-subscribe-FF0000?style=flat&logo=youtube&logoColor=white" />
+  <a href="https://www.linkedin.com/in/codeharbourdev/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-Follow-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f111a" />
   </a>
 </p>
+
 
 ---
 
-### 🙋‍♂️ About Me
+<!-------------------------  about us  ----------------------->
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **YouTube tutorials & frontend projects**
-- 🎯 My goal: Help beginners in Hindi to learn modern frontend web development
-- 💻 Currently exploring **React**, **Tailwind CSS**, and **responsive design**
-- 🎥 I create short + clean tutorials on HTML, CSS, JS, GitHub & more!
-- 🧑‍💻 Active on GitHub, LinkedIn & YouTube
+Hello Universe! 🌌  
+I’m a dedicated **frontend developer** passionate about building fast, responsive, and user-focused web interfaces. With a solid foundation in core web technologies and a growing skill set in modern tools and frameworks, I continuously push myself to learn and build better things. 🚀
 
 ---
 
-### 🧠 Tech Stack
+### 🚀 What I Do
+
+- ✔️ **Frontend Development:**  
+  HTML, CSS, Tailwind CSS, JavaScript, React *(currently learning)*
+
+- 🎨 **UI/UX Design:**  
+  Web & Mobile Interfaces — always focused on **clean design** and **great user experience**
+
+- 🤖 **AI Tools I Use:**  
+  ChatGPT, GitHub Copilot *(for smarter, faster development)*
+
+- ⚙️ **Performance Optimization:**  
+  Responsive Design, Accessibility, SEO
+
+- 🛠️ **Tools & Workflow:**  
+  Git, GitHub *(version control & collaboration)*
+
+---
+
+### 💡 Current Focus
+
+📌 Mastering **React.js** by building real-world projects and strengthening frontend problem-solving skills with a focus on best practices and performance.
+
+---
+
+### 🤝 Let’s Connect
+
+If you're into **clean code**, **great UI/UX**, or want to **collaborate on frontend projects**, I’d love to connect!
+
+
+<!-------------------------  tech stack  ---------------------------------->
+## 🛠️ Tech Stack
+
+These are the tools and technologies I work with or am currently learning:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5‑E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3‑1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript‑F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS‑38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React‑20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Figma‑F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode‑007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git‑F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 ---
 
-### 🔥 GitHub Stats
+<!-------------------------  github states  ---------------------------------->
+## 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeharbourdev&show_icons=true&theme=radical" height="180" />
@@ -64,23 +92,15 @@
 </p>
 
 ---
-
-### 📺 Latest From YouTube
-
-<!-- Replace with your own YouTube embed later -->
-> 🔗 [YouTube Channel – Code Harbour](https://www.youtube.com/@codeharbourdev)
-
-- ✅ HTML/CSS Mini Projects in 2 mins  
-- ✅ Developer Tips in Hindi  
-- ✅ Full Web Design Projects Coming Soon!
-
----
-
+<!-------------------------  contact me  ---------------------------------->
 ### 📫 Contact Me
 
-- 📧 Email: `codeharbourdev@gmail.com`
-- 🌐 Portfolio: [codeharbourdev.netlify.app](https://codeharbourdev.netlify.app)
+- 📧 Email: `codevibewithrishi@gmail.com`
+- 🌐 Website: [codeharbourdev.netlify.app](https://codeharbourdev.netlify.app)
+- 🗂 Portfolio: [harbour-portfolio.netlify.app](https://harbour-portfolio.netlify.app)
 - 🔗 LinkedIn: [linkedin.com/in/codeharbourdev](https://www.linkedin.com/in/codeharbourdev)
+- 🌴 Linktree: [linktr.ee/rishabhlinktree](https://linktr.ee/rishabhlinktree)
+
 
 ---
 
