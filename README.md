@@ -99,7 +99,6 @@ These are the tools and technologies I work with or am currently learning:
 - 🌐 Website: [codeharbourdev.netlify.app](https://codeharbourdev.netlify.app)
 - 🗂 Portfolio: [harbour-portfolio.netlify.app](https://harbour-portfolio.netlify.app)
 - 🔗 LinkedIn: [linkedin.com/in/codeharbourdev](https://www.linkedin.com/in/codeharbourdev)
-- 🌴 Linktree: [linktr.ee/rishabhlinktree](https://linktr.ee/rishabhlinktree)
 
 
 ---
